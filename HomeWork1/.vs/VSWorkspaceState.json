@@ -3,8 +3,9 @@
     "",
     "\\SEDC.HomeWork.Class2",
     "\\SEDC.HomeWork.Class2\\SEDC.HomeWork.Class2",
-    "\\SEDC.HomeWork.Class2\\SEDC.HomeWork.Class2\\Controllers"
+    "\\SEDC.HomeWork.Class2\\SEDC.HomeWork.Class2\\Controllers",
+    "\\SEDC.HomeWork.Class2\\SEDC.HomeWork.Class2\\wwwroot"
   ],
-  "SelectedNode": "\\SEDC.HomeWork.Class2\\SEDC.HomeWork.Class2\\Controllers\\UsersController.cs",
+  "SelectedNode": "\\SEDC.HomeWork.Class2\\SEDC.HomeWork.Class2\\wwwroot\\index.html",
   "PreviewInSolutionExplorer": false
 }

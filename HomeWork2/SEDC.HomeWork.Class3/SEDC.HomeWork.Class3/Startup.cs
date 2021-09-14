@@ -1,10 +1,13 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using SEDC.HomeWork.Class3.DataAccess;
+using SEDC.HomeWork.Class3.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +29,8 @@ namespace SEDC.HomeWork.Class3
         {
             services.AddSwaggerGen();
             services.AddControllers();
+            services.AddTransient<BookService>(); 
+            services.AddDbContext<BookAppDbContext>(options => options.UseSqlServer(@"Server=DESKTOP-UL0LC45\SQLEXPRESS;Database=BookAppDb;Trusted_Connection=True"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

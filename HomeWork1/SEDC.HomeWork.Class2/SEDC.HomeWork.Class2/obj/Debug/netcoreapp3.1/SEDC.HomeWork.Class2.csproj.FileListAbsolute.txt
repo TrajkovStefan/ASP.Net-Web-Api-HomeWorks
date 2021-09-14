@@ -19,3 +19,24 @@ C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SED
 C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.dll
 C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.pdb
 C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.genruntimeconfig.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.exe
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.deps.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.runtimeconfig.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.runtimeconfig.dev.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\bin\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.csproj.AssemblyReference.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.AssemblyInfoInputs.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.AssemblyInfo.cs
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\staticwebassets\SEDC.HomeWork.Class2.StaticWebAssets.Manifest.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\staticwebassets\SEDC.HomeWork.Class2.StaticWebAssets.xml
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\scopedcss\bundle\SEDC.HomeWork.Class2.styles.css
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.RazorTargetAssemblyInfo.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork1\SEDC.HomeWork.Class2\SEDC.HomeWork.Class2\obj\Debug\netcoreapp3.1\SEDC.HomeWork.Class2.genruntimeconfig.cache

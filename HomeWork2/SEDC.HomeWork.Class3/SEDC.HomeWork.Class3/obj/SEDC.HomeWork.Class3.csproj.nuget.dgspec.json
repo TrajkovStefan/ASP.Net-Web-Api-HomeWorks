@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiko\\Desktop\\STEFAN\\WebApi HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj": {}
+    "C:\\Users\\Kiko\\Documents\\GitHub\\ASP.Net-Web-Api-HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiko\\Desktop\\STEFAN\\WebApi HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj": {
+    "C:\\Users\\Kiko\\Documents\\GitHub\\ASP.Net-Web-Api-HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiko\\Desktop\\STEFAN\\WebApi HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj",
+        "projectUniqueName": "C:\\Users\\Kiko\\Documents\\GitHub\\ASP.Net-Web-Api-HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj",
         "projectName": "SEDC.HomeWork.Class3",
-        "projectPath": "C:\\Users\\Kiko\\Desktop\\STEFAN\\WebApi HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj",
+        "projectPath": "C:\\Users\\Kiko\\Documents\\GitHub\\ASP.Net-Web-Api-HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3.csproj",
         "packagesPath": "C:\\Users\\Kiko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiko\\Desktop\\STEFAN\\WebApi HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\obj\\",
+        "outputPath": "C:\\Users\\Kiko\\Documents\\GitHub\\ASP.Net-Web-Api-HomeWorks\\HomeWork2\\SEDC.HomeWork.Class3\\SEDC.HomeWork.Class3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,26 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.1, )"
