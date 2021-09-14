@@ -25,5 +25,15 @@ namespace SEDC.HomeWork.Class3.Helpers
         {
             return _dbContext.Books.FirstOrDefault(x => x.Id == id);
         }
+
+        public void AddBook(BookVM newBook)
+        {
+            _dbContext.Books.Add(new Book
+            {
+                Title = newBook.Title,
+                Author = newBook.Author
+            });
+            _dbContext.SaveChanges();
+        }
     }
 }

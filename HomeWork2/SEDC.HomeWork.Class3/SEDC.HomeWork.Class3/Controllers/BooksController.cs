@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SEDC.HomeWork.Class3.Helpers;
 using SEDC.HomeWork.Class3.Models;
 using System;
 using System.Collections.Generic;
@@ -12,12 +13,18 @@ namespace SEDC.HomeWork.Class3.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
+        private BookService _bookService;
+        public BooksController(BookService bookService)
+        {
+            _bookService = bookService;
+        }
+        
         [HttpGet]
         public ActionResult<List<Book>> Get()
         {
             try
             {
-                return Ok(StaticDb.Books);
+                return Ok(_bookService.GetAll());
             }
             catch (Exception e)
             {
@@ -83,6 +90,13 @@ namespace SEDC.HomeWork.Class3.Controllers
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Server error occured");
             }
+        }
+
+        [HttpPost("add-book")]
+        public IActionResult AddBook([FromBody] BookVM book)
+        {
+            _bookService.AddBook(book);
+            return Ok();
         }
     }
 }
