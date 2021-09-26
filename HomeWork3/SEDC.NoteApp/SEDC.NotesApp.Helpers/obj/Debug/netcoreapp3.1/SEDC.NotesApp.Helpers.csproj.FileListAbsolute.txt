@@ -1,0 +1,104 @@
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.deps.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.dev.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CopyComplete
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.genruntimeconfig.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class6\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.deps.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.dev.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CopyComplete
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi Predavanja\Class7\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.genruntimeconfig.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.deps.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.dev.json
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CopyComplete
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Desktop\STEFAN\WebApi HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.genruntimeconfig.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.deps.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.runtimeconfig.dev.json
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Services.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.AssemblyInfo.cs
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.csproj.CopyComplete
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.dll
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.pdb
+C:\Users\Kiko\Documents\GitHub\ASP.Net-Web-Api-HomeWorks\HomeWork3\SEDC.NoteApp\SEDC.NotesApp.Helpers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Helpers.genruntimeconfig.cache
